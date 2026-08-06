@@ -34,3 +34,5 @@ The strength score is calculated based on 5 industry-standard password complexit
 Copy the script code and save it as `pass_check.sh`:
 ```bash
 nano pass_check.sh
+chmod +x pass_check.sh
+./pass_check.sh
